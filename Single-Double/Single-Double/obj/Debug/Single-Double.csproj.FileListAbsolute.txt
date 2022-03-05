@@ -1,0 +1,7 @@
+C:\Users\furka\source\repos\Single-Double\Single-Double\bin\Debug\Single-Double.exe.config
+C:\Users\furka\source\repos\Single-Double\Single-Double\bin\Debug\Single-Double.exe
+C:\Users\furka\source\repos\Single-Double\Single-Double\bin\Debug\Single-Double.pdb
+C:\Users\furka\source\repos\Single-Double\Single-Double\obj\Debug\Single-Double.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Single-Double\Single-Double\obj\Debug\Single-Double.exe
+C:\Users\furka\source\repos\Single-Double\Single-Double\obj\Debug\Single-Double.pdb
+C:\Users\furka\source\repos\Single-Double\Single-Double\obj\Debug\Single-Double.csproj.AssemblyReference.cache
